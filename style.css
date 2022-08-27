@@ -707,6 +707,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: #F3976C;
 }
 
 h3 {
@@ -771,15 +772,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #A4634C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #A4634C;
     color: #FFFFFF!important;
 }
 
