@@ -325,7 +325,8 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 22px;
+    border-bottom: solid 2px #A4634C;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -696,8 +697,12 @@ a {
 }
 
 .social {
-    max-width: 400px;
     margin: auto auto auto auto;
+}
+
+.row {
+    margin-top: 15px;
+    padding-bottom: 30px;
 }
 
 h2 {
@@ -734,6 +739,12 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+
+.white-footer {
+    font-size: 22px;
+    color: white!important;
+    margin-bottom: 32px;
 }
 
 .portfolio-thumb {
