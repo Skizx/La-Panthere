@@ -287,6 +287,10 @@ a:hover {
     font-size: 32px;
 }
 
+.partner-link {
+    border-bottom: solid 1px gray;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -326,6 +330,9 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 22px;
+}
+
+.nav > li :hover {
     border-bottom: solid 2px #A4634C;
 }
 
@@ -742,8 +749,8 @@ h4 {
 }
 
 .white-footer {
-    font-size: 22px;
-    color: white!important;
+    font-size: 18px;
+    color: #FFFFFF!important;
     margin-bottom: 32px;
 }
 
